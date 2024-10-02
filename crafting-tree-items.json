@@ -159,8 +159,8 @@
 	],
     "selectableItems": [
         {
-            "name": "3-second-timer",
-            "displayName": "3 Second Timer",
+            "name": "ankh-shield",
+            "displayName": "Ankh Shield",
             "modName": "Terraria",
             "itemSpacing": [150, 300, 450],
             "radial": true
